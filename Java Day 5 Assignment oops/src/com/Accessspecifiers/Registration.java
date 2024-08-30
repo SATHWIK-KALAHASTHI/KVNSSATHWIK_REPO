@@ -6,7 +6,7 @@ public class Registration {
 		DayScholor dayscholor = new DayScholor();
 		dayscholor.setStudentId(1001);
 		dayscholor.setStudentType('D');
-		dayscholor.setStudentname("subbu");
+		dayscholor.setStudentname("sabbu");
 		dayscholor.getDetails();
 		
 	}
